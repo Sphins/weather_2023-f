@@ -1,0 +1,5 @@
+https://api.openweathermap.org/data/3.0/weather?lat=50.7584521&lon=5.6958773&exclude=&units=metric&lang=fr&appid=ba71202a01cdae9115678b15e6cba61d
+
+https://api.openweathermap.org/data/2.5/weather?lat=50.7584521&lon=5.6958773&units=metric&lang=fr&appid=ba71202a01cdae9115678b15e6cba61d
+
+https://api.openweathermap.org/data/2.5/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid=64ad5dffd959f521ec8f3a2e35d0492e
